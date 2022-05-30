@@ -4,19 +4,19 @@ heroImage: /img/web.png
 heroText: HerosWorker
 tagline:  🚀🚀🚀为简单、敏捷开发而生
 actionText: 立刻进入 →
-actionLink: /pages/e7de10/
+actionLink: /pages/03cbe2/
 bannerBg: none
 
 features: # 可选的
   - title: 丰富功能
     details: 注解、枚举、消息队列、任务调度、ORM等功能一应俱全。
-    link: /pages/e7de10/
+    link: /pages/03cbe2/
   - title: 简单、效率至上
     details: 只需要简单的配置，既可以完成API输出的操作，从而节省大量时间。
-    link: /pages/e7de10/
+    link: /pages/03cbe2/
   - title: 突破、多领域应用
     details: 广泛在互联网、即时通讯、APP开发、硬件通讯、智能家居、物联网等领域的开发。
-    link: /pages/e7de10/
+    link: /pages/03cbe2/
 
 postList: none
 hideRightBar: true # 是否隐藏右侧边栏
