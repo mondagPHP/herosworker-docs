@@ -25,9 +25,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       {
         text: 'PHP',
         items: [
-          { text: "HerosWorker文档", link: '/pages/e7de10/' },
-          { text: "开发手册", link: '/pages/0d6315/' },
-          { text: "MINIO-SDK", link: '/pages/325c39/' }
+          { text: "V1文档", link: '/pages/03cbe2/' },
+//           { text: "V2文档", link: '/pages/03cbe2/' },
+          { text: "规范手册", link: '/pages/0d6315/' },
+          { text: "minioSDK", link: '/pages/325c39/' }
         ],
       },
       {
